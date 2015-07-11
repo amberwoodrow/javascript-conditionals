@@ -1,4 +1,4 @@
-# JavaScript Conditionals
+# gSchool - JavaScript Conditionals
 #### Practice with conditionals in JavaScript.
 
 
