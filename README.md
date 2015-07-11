@@ -15,4 +15,4 @@
 
 Check this out at [CodePen](http://codepen.io/amberwoodrow/pen/zGjymX).
 
-A quick note: My comments for my work are in the code. I did not add any of the comments for this project in Code Pen.
+A quick note: My comments for my work are in the code. I did not add any of the comments for this project in CodePen.
